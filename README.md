@@ -23,6 +23,11 @@ https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/AV
 The part number is: AV1911000Q04 
 One leg of the switch must be connected to the endcap,as the DC negative connection is switched. The switch may require a small spring and a plastic spacer so the other leg is in contact with the batterys negative therminal. The spacer may be necessary to avoid shorts with the switches other unused pins.It's also some soldering involved, the legs on the switch,and the wires from the driver PCB is the ones that needs soldering. That is four points total.
 
+Lens:
+http://www.international.mtnelectronics.com/index.php?route=product/product&product_id=70
+
+Reflector:
+https://www.mtnelectronics.com/index.php?route=product/product&path=68_101&product_id=495
 
 
 All the IGES files,STL files and SVG blueprints are in their folders.
