@@ -26,5 +26,5 @@ One leg of the switch must be connected to the endcap,as the DC negative connect
 
 
 All the IGES files,STL files and SVG blueprints are in their folders.
-The vinking-holder file has a engraving with graphics from a sword hilt found at Alm in Stange, Norway. It's from around year 800.
+The viking-holder file has a engraving with graphics from a sword hilt found at Alm in Stange, Norway. It's from around year 800.
 
