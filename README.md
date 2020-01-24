@@ -1,12 +1,12 @@
 # 21mmflashlight
-This is a repository for a flashlight, takes two 21700 batteries.
+This is a repository for a flashlight.
 It can be made using a normal lathe and a drill press or a milling machine. A multi axis CNC is required for the fancy engraving.
 
 You will need a round stock that has 60mm diameter and suitable length, material 6061 aluminium alloy to make this flashlight. You will need to thread the parts as you see fit, and add knurling.
 
 If Anodizing is added as a surface treatment, the threads must be left bare, as the chassis is DC negative and electric connections must be preserved.
 
-It takes two 21700 lithium ion batteries Batteries ( 21 mm diameter and 70mm length), I think that protected ones with a button top should fit. 
+It takes two 21700 lithium ion batteries ( 21 mm diameter and 70mm length), I think that protected ones with a button top should fit. 
 
 It is also smart to use a good quality thermal paste on the backside of the LED pcb. Something like NT-H1 from Noctua is good. Ordinary electric conductive copper paste can perhaps be used on the threads on the part that holds the two PCB's to improve the thermal conductivity.
 
