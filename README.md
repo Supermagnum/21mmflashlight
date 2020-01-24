@@ -1,5 +1,5 @@
 # 21mmflashlight
-This is a repository for a flashlight, takes two 21700 batteries
+This is a repository for a flashlight, takes two 21700 batteries.
 It can be made using a normal lathe and a drill press or a milling machine. A multi axis CNC is required for the fancy engraving.
 
 You will need a round stock that has 60mm diameter and suitable length, material 6061 aluminium alloy to make this flashlight. You will need to thread the parts as you see fit, and add knurling.
@@ -21,7 +21,7 @@ http://www.international.mtnelectronics.com/index.php?route=product/product&path
 OFF/ON switch:
 https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/AV1911000Q04/450-2229-ND/6043720
 The part number is: AV1911000Q04 
-One leg of the switch must be connected to the endcap. The switch may require a small spring and a plastic spacer so the other leg is in contact with the batterys negative therminal. It's also some soldering involved, the legs on the switch,and the wires from the driver PCB is the ones that needs soldering. That is four points total.
+One leg of the switch must be connected to the endcap,as the DC negative connection is switched. The switch may require a small spring and a plastic spacer so the other leg is in contact with the batterys negative therminal. The spacer may be necessary to avoid shorts with the switches other unused pins.It's also some soldering involved, the legs on the switch,and the wires from the driver PCB is the ones that needs soldering. That is four points total.
 
 
 
