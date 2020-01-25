@@ -44,4 +44,7 @@ https://www.freecadweb.org/
 Its free and multi platform!
 
 
+Remember to read the license for these files, it is here:
+https://github.com/Supermagnum/21mmflashlight/blob/master/LICENSE
+
 
