@@ -31,5 +31,6 @@ https://www.mtnelectronics.com/index.php?route=product/product&path=68_101&produ
 
 
 All the IGES files,STL files and SVG blueprints are in their folders.
-The viking-holder file has a engraving with graphics from a sword hilt found at Alm in Stange, Norway. It's from around year 800.
+The viking-holder file has a engraving with graphics from a sword hilt found at Alm in Stange, Norway. It's from around year 800. That is only avaible as a STL file, because the IGES file is too large for Github. Its here:
+https://github.com/Supermagnum/21mmflashlight/blob/master/stl/viking-holder.stl
 
