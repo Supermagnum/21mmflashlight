@@ -12,8 +12,9 @@ It is also smart to use a good quality thermal paste on the backside of the LED 
 
 LED driver:
 http://www.international.mtnelectronics.com/index.php?route=product/product&path=67_117&product_id=888
-Alternatively ( the pocket for the LED driver will need to be modified to the correct diameter and depth for this one)
+Alternatively ( the pocket for the LED driver will need to be modified to the correct diameter and depth for this one):
 https://asflashlights.com/-diy-parts/75-10-amp-capable-17mm-led-driver.html
+
 Note on the LED driver: I dont know if it has any protection agains reverse polarity, but its easy to add that. Just use this PCB:
 https://oshpark.com/shared_projects/QlLKpYoS
 
